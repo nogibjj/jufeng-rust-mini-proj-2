@@ -1,6 +1,4 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust mini project 2
+This project solves a problem: Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+A subarray is a contiguous non-empty sequence of elements within an array.
